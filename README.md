@@ -32,5 +32,5 @@
 <a href="https://www.linkedin.com/in/ankitk152/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p> 
 
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=akshayashu&show_icons=true)
+![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=Ankit152&show_icons=true)
 
