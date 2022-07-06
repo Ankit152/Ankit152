@@ -18,10 +18,15 @@
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="java" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="Promethues" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /></code>&nbsp;
 </p>
 
 **Connect with me:**
