@@ -38,4 +38,5 @@
 </p> 
 
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=Ankit152&show_icons=true)
-
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=Ankit152&color=B9345A&label=PROFILE+VIEWS)
