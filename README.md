@@ -4,13 +4,13 @@
 
 
 ### 💼  Things that I'm currently working on: 
-* 💻 Software Engineering (SRE) Intern at RedHat.
-* 📖 Pursuing B.Tech in Computer Science and Engineering.
+* 💻 Associate Site Reliability Engineer at Red Hat.
+* 📖 B.Tech in Computer Science and Engineering.
 * 🔭 I’m currently working on cloud services, kubernetes, operators, etc.
 * 👯 Looking forward to contribute in open source project. 
 * 🌐 Developing services with Golang.
 * ✍ Working on DS & Algo.
-* ⚡ Fun fact: A numismatic, photography, biking and travelling freak! 
+* ⚡ Fun fact: A numismatics, photography, biking, philately and travelling freak! 
  
  **Languages and Frameworks:**
 <p align="left">
