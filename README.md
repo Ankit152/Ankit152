@@ -25,7 +25,8 @@
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="Promethues" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /></code>&nbsp;
 </p>
 
