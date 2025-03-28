@@ -4,8 +4,8 @@
 
 
 ### 💼  Things that I'm currently working on: 
-* 💻 Associate Site Reliability Engineer at Red Hat.
-* 🚀 LFX Fall'24 Mentee at Jaeger.
+* 💻 Site Reliability Engineer at Red Hat.
+* 🚀 LFX Fall'24 Mentee at Jaeger, OpenTelemetery and CNCF.
 * 📖 B.Tech in Computer Science and Engineering.
 * 🔭 I’m currently working on cloud services, kubernetes, operators, etc.
 * 👯 Looking forward to contribute in open source project. 
